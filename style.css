@@ -1,0 +1,44 @@
+table{
+    margin: auto;
+    margin-top: 100px;
+    border-collapse: collapse;
+     
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.t1{
+    background-color: yellow;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.t1 td{
+    padding: 10px;
+}
+.t2{
+    background-color: yellow;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.t2 td{
+    padding: 10px;
+}
+.T3{
+    background-color: rgb(245, 249, 252);
+    
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.T3 td{
+    padding: 10px;
+}
+
+#H{
+    padding: 50px;
+    background-color: rgb(255, 194, 214);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
